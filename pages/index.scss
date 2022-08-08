@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+@import "../style/header";
+@import "../style/slider";
+@import "../style/container";
+@import "../style/typografy";
+@import "../style/separador";
+@import "../style/btn";
