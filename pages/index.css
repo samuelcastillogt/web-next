@@ -61,6 +61,16 @@ header svg {
   cursor: pointer;
 }
 
+.menu li {
+  list-style: none;
+  padding: 10px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;
+}
+
 .slider {
   height: 300px;
   width: 100%;
